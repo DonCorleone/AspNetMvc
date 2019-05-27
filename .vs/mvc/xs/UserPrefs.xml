@@ -1,21 +1,37 @@
 ﻿<Properties StartupConfiguration="{CEE1CB22-9A35-4B13-9171-536754234574}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
+  <MonoDevelop.Ide.Workbench ActiveDocument="mvc/Scripts/README.md">
     <Files>
-      <File FileName="mvc/Controllers/HomeController.cs" Line="14" Column="1" />
-      <File FileName="mvc/Controllers/HelloWorldontroller.cs" Line="26" Column="31" />
-      <File FileName="mvc/App_Start/RouteConfig.cs" Line="21" Column="13" />
-      <File FileName="mvc/packages.config" Line="1" Column="1" />
-      <File FileName="README.md" Line="3" Column="1" />
+      <File FileName="mvc/Global.asax.cs" Line="15" Column="13" />
+      <File FileName="mvc/App_Start/RouteConfig.cs" Line="1" Column="1" />
+      <File FileName="mvc/App_Start/BundleConfig.cs" Line="1" Column="1" />
+      <File FileName="mvc/Views/Shared/_Layout.cshtml" Line="7" Column="1" />
+      <File FileName="mvc/Views/Web.config" Line="18" Column="17" />
+      <File FileName="mvc/Scripts/README.md" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="mvc" expanded="True">
-            <Node name="Solution Items" expanded="True">
-              <Node name="/Users/dev/Documents/playgroundz/dotNet/mvc/mvc/README.md" selected="True" />
+            <Node name="Solution Items" expanded="True" />
+            <Node name="mvc" expanded="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="App_Start" expanded="True" />
+              <Node name="Content" expanded="True">
+                <Node name="bootstrap-grid.css" selected="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Scripts" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="Global.asax" expanded="True" />
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
